@@ -44,7 +44,10 @@ From your terminal, enter the following command:
 
 ```echo "alias email='~/email/email.sh'" >> ~/.zshrc```
 
-## Step 5: You are all set. 
+## Step 5: Create a directory named `log`
+This will create a temporary file for saving your config and email contents
+
+## Step 6: You are all set. 
 From your command prompt, type `email` to start
 
 
